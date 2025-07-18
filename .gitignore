@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Test output
+htmlcov/
+coverage.xml
+
+# Output folders
+app/output/
+output/
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
+
+# Docker
+*.tar
+
+# Python env files
+.env
